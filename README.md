@@ -1,4 +1,4 @@
-# summer-internship-assignment
+# Summer-internship-assignment
 
 
 This repository contains solutions for all tasks given in the Summer Internship Assignment.
