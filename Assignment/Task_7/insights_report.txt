@@ -1,0 +1,100 @@
+-------------------------------------------------------
+DIGITAL BURNOUT & PRODUCTIVITY ANALYTICS REPORT
+-------------------------------------------------------
+
+1. DATASET OVERVIEW
+----------------------------------------------------
+Rows: 321347
+Columns: 34
+
+Columns Present:
+- user_id
+- age
+- occupation
+- work_mode
+- device_usage_type
+- daily_screen_time
+- social_media_hours
+- doomscrolling_duration
+- app_switch_frequency
+- notification_count
+- smartphone_unlocks
+- late_night_device_usage
+- focus_sessions
+- deep_work_hours
+- distraction_frequency
+- task_completion_rate
+- concentration_score
+- sleep_hours
+- sleep_quality
+- caffeine_intake
+- physical_activity
+- stress_level
+- workspace_quality
+- meeting_hours
+- internet_stability
+- remote_work_days
+- motivation_level
+- mental_fatigue
+- emotional_exhaustion
+- work_satisfaction
+- mental_state
+- burnout_risk
+- productivity_score
+- productivity_category
+
+2. DATA QUALITY CHECK
+----------------------------------------------------
+No missing values found.
+
+Duplicate Rows: 0
+
+3. TARGET COLUMN SELECTED
+----------------------------------------------------
+Target Column Used: productivity_category
+
+4. MOST INFLUENTIAL FEATURES
+----------------------------------------------------
+Top Positive Influencers:
+- burnout_risk positively affects productivity_category (Correlation: 0.23)
+- emotional_exhaustion positively affects productivity_category (Correlation: 0.11)
+- stress_level positively affects productivity_category (Correlation: 0.08)
+- social_media_hours positively affects productivity_category (Correlation: 0.08)
+- app_switch_frequency positively affects productivity_category (Correlation: 0.05)
+
+Top Negative Influencers:
+- caffeine_intake negatively affects productivity_category (Correlation: -0.0)
+- smartphone_unlocks negatively affects productivity_category (Correlation: -0.0)
+- device_usage_type negatively affects productivity_category (Correlation: -0.0)
+- internet_stability negatively affects productivity_category (Correlation: -0.0)
+- mental_fatigue negatively affects productivity_category (Correlation: -0.0)
+
+5. TRENDS AND OBSERVATIONS
+----------------------------------------------------
+- 'deep_work_hours' has moderate negative relationship with 'productivity_category'.
+- Higher 'productivity_score' is associated with lower 'productivity_category'.
+
+The analysis suggests that healthy lifestyle habits such as proper sleep and regular exercise improve productivity levels.
+High stress, burnout, and excessive screen time negatively affect performance and overall productivity.
+
+6. HIGHLY CORRELATED FEATURES
+----------------------------------------------------
+No highly correlated features found.
+
+7. POSSIBLE ISSUES IN DATASET
+----------------------------------------------------
+- Correlation does not always imply causation.
+- Some patterns may be synthetic or artificially generated.
+- Extreme outliers may affect analysis results.
+- Human behavioral data may contain hidden biases.
+
+8. FINAL CONCLUSION
+----------------------------------------------------
+The dataset analysis shows that 'productivity_category' is influenced by multiple behavioral and work-related factors. Correlation analysis identified the most impactful features affecting productivity and burnout.
+
+Healthy work-life balance, proper sleep, exercise, and lower stress levels are associated with better productivity.
+High burnout and excessive screen usage negatively impact performance.
+
+The dataset is useful for data analysis, visualization, and machine learning tasks related to workplace wellness and productivity analytics.
+
+REPORT GENERATED SUCCESSFULLY

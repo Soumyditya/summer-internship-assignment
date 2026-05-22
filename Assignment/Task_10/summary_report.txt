@@ -1,0 +1,10 @@
+DATA SUMMARY REPORT
+
+Total Posts Collected: 7
+Total Unique Creators: 0
+
+Most Common Keywords:
+Topic
+Artificial Intelligence and machine learning applications    5
+Latest robotics innovations and automation systems           2
+Name: count, dtype: int64

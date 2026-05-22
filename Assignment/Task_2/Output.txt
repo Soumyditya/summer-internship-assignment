@@ -1,0 +1,7 @@
+Log Type Count
+WARNING: 17
+ERROR: 55
+INFO: 28
+
+Most Frequent Log Type:
+ERROR occurred 55 times

@@ -1,0 +1,7 @@
+Enter Numbers4 5 3 4 5 2 1 
+
+Sorted List Without Duplicates:
+[1, 2, 3, 4, 5]
+
+Dictionary Output:
+{'Maximum Value': 5, 'Minimum Value': 1, 'Average Value': 3.4285714285714284, 'Frequency': {4: 2, 5: 2, 3: 1, 2: 1, 1: 1}}

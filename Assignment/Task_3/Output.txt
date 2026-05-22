@@ -1,0 +1,11 @@
+Enter first number: 3
+Enter second number: 2
+
+Result: 1.5
+
+
+Enter first number: 3
+Enter second number: 0
+Error: Cannot divide by zero
+
+Result: None
